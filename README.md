@@ -1,2 +1,25 @@
-# ddacc7dc-dental-practice-management-soc
-Tired of staring at a blank screen, trying to think of what to post for your dental practice? This template pack gives you 30+ done-for-you social media posts that attract new patients and keep current ones engaged.  Stop wasting hours on content creation. This pack provides pre-designed, customizable templates tailored to dental practices, coverin
+# Dental Practice Management Social Media Content Template Pack
+
+
+
+---
+
+## Free vs Pro
+
+| Feature | Free | Pro |
+|---------|:----:|:---:|
+| Basic template | Yes | Yes |
+| Standard layout | Yes | Yes |
+| Premium components | - | Yes |
+| Custom styling | - | Yes |
+| Support included | - | Yes |
+| Regular updates | - | Yes |
+
+### Upgrade to Pro
+
+Get the full version with all premium features, priority support, and lifetime updates.
+
+**[Get Pro Version](https://buy.stripe.com/fZu7sLh1B4sc5tu8nGd0p0o)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/fZu7sLh1B4sc5tu8nGd0p0o)
+
